@@ -1,2 +1,2 @@
 # weather-app
-Data is taken from SMHI Open Data API Docs - Meteorological Forecasts
+A small introduction to Django framework. Data is taken from SMHI Open Data API Docs - Meteorological Forecasts.
